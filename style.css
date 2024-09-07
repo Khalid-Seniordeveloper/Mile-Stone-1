@@ -170,11 +170,11 @@ input, button {
     color: #fff;
 }
 .btn-primary {
-    background-color: #1d4ed8; /* Tailwind's blue-700 */
+    background-color: #1d4ed8;
     transition: background-color 0.3s;
 }
 .btn-primary:hover {
-    background-color: #1e40af; /* Tailwind's blue-800 */
+    background-color: #1e40af; 
 }
 .profile-image-container {
     text-align: center;
@@ -185,8 +185,8 @@ input, button {
     height: 150px;
     object-fit: cover;
     border-radius: 50%;
-    border: 2px solid #d1d5db; /* Tailwind's gray-300 */
-    background: #e5e7eb; /* Tailwind's gray-200 */
+    border: 2px solid #d1d5db;
+    background: #e5e7eb;
     display: block;
     margin: 0 auto;
 }
@@ -220,14 +220,14 @@ background-color: #0ca4f0;
 #head-3{
 
     text-align: center;
-    color: green; /* Tailwind's blue-700 */
+    color: green; 
     margin-bottom: 20px;
     font-size: 2rem;
     font-family: "Lato", sans-serif;
 }
 #head-4{
     text-align: center;
-    color: white; /* Tailwind's blue-700 */
+    color: white; 
     margin-bottom: 20px;
     font-size: 2rem;
     font-family: "Lato", sans-serif;
@@ -235,7 +235,7 @@ background-color: #0ca4f0;
 #head-5{
     font-family: "Lato", sans-serif;
     text-align: center;
-    color: gray; /* Tailwind's blue-700 */
+    color: gray; 
     margin-bottom: 20px;
     font-size: 2rem;
 }
